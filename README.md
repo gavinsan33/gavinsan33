@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-##I've linked some projects that I contributed to that aren't listed in my repos:
+## I've linked some projects that I contributed to that aren't listed in my repos:
 
 * [CONTEXT - Moving Platform for Expats](https://github.com/bradylii/CONTEXT)
 * [Narro - A Language Learning Tool](https://github.com/aahiltn/narro)
